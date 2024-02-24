@@ -18,6 +18,7 @@
 
 ### Projects
 
+[![](https://img.shields.io/badge/-🧩%20Sudoku%20Solver-000)](https://github.com/danildenha/Sudoku-Solver)
 [![](https://img.shields.io/badge/-🗺️%20Interval%20Map-000)](https://github.com/danildenha/Interval-Map)
 [![](https://img.shields.io/badge/-💾%20Circular%20Buffer-000)](https://github.com/danildenha/Circular-Buffer)
 [![](https://img.shields.io/badge/-📊%20A*%20Search-000)](https://github.com/danildenha/Astar.search)
