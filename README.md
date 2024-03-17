@@ -2,7 +2,7 @@
 - 👨‍🏫 I am pursuing my Bachelor of Science in Computer Science
 - 🏫 I go to Elmhurst University and completed courses at Harvard University
 - 👀 I’m interested in Computer Science and Software Engineering
-- 🌱 I’m currently learning Unix and Linux systems
+- 🌱 I’m currently learning Data Structures and Algorithms, and Web Development.
 - 💞️ I’m looking to collaborate on C++/C/Python/JavaScript/Swift
 - 📫 Reach out to me on danildenha@gmail.com
   ### Languages
