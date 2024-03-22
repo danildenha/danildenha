@@ -5,16 +5,12 @@
 - 🌱 I’m currently learning Data Structures and Algorithms, and Web Development.
 - 💞️ I’m looking to collaborate on C++/C/Python/JavaScript/Swift
 - 📫 Reach out to me on danildenha@gmail.com
-  ### Languages
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
+  ### Languages/Tools
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,swift,js,nodejs,html,css,mysql,sqlite,postman,git,github,vim,neovim,vscode,bash&perline=6" />
+  </a>
+</p>
 
 ### Projects
 
