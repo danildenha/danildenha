@@ -6,11 +6,11 @@
 - 💞️ I’m looking to collaborate on C++/C/Python/JavaScript/Swift
 - 📫 Reach out to me on danildenha@gmail.com
   ### Languages/Tools
-  <p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,swift,js,nodejs,html,css,mysql,sqlite,postman,git,github,vim,neovim,vscode,bash&perline=6" />
   </a>
-</p>
+
 
 ### Projects
 
