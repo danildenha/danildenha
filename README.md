@@ -8,7 +8,7 @@
   ### Languages/Tools
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,swift,js,nodejs,html,css,mysql,sqlite,postman,git,github,vim,neovim,vscode,bash&perline=6" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,swift,js,nodejs,nextjs,html,css,mysql,sqlite,postman,git,github,vim,neovim,vscode,bash&perline=6" />
   </a>
 
 
