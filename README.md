@@ -25,9 +25,3 @@
 [![](https://img.shields.io/badge/-🧮%20Polynomial-1800)](https://github.com/danildenha/Polynomial)
 [![](https://img.shields.io/badge/-📸%20Image%20Filter-900)](https://github.com/danildenha/ImageFilterInC)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danildenha&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
-<!---
-danildenha/danildenha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
