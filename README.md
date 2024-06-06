@@ -13,7 +13,8 @@
 
 
 ### Projects
-
+[![](https://img.shields.io/badge/-🔍%20TSP-1800)](https://github.com/danildenha/TSP)
+[![](https://img.shields.io/badge/-🌐%20Website%20Portfolio-900)](https://github.com/danildenha/website-portfolio)
 [![](https://img.shields.io/badge/-🔺%20Closest%20Points-1800)](https://github.com/danildenha/shortestDistance)
 [![](https://img.shields.io/badge/-🥽%20VisionOS%20Gif%20Application-900)](https://github.com/danildenha/visionOsApp)
 [![](https://img.shields.io/badge/-📺%20YouTube%20Extension-1800)](https://github.com/danildenha/visionOsApp)
